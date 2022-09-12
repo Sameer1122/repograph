@@ -1,0 +1,19 @@
+@import url('https://cdn.syncfusion.com/ej2/material.css');
+
+.search-area {
+width: 90%;
+margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+}
+.main-area{
+  width: 90%; margin: auto; margin-top: 2rem;
+}.bar-wrapper{
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+ height: 70vh;
+ margin: auto;
+}
